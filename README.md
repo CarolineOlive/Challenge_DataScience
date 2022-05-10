@@ -1,4 +1,6 @@
 <h1> Challenge_DataScience </h1>
+<img src="https://user-images.githubusercontent.com/73675930/167624754-ea3dfad0-6dd3-4830-8a10-53ba329832b7.png"/>
+
 
 **Em desenvolvimento**
 
