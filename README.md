@@ -1,6 +1,4 @@
 <h1> Challenge_DataScience </h1>
-<img src="https://user-images.githubusercontent.com/73675930/167624754-ea3dfad0-6dd3-4830-8a10-53ba329832b7.png"/>
-
 
 <h2>Projeto Predição de Churn | Alura Voz</h2>
   O projeto foi desenvolvido utilizando <b>linguagem Python</b> no jupyter notebook do Google Colab. O python possui um série de bibliotecas que nos auxiliam na construção das análises e modelagem dos dados. Neste projeto, foram utilizadas as seguintes:
@@ -11,13 +9,25 @@
 <li>seaborn
 <li>scikit-learn
 <li>imbalanced-learn
-  
-  . : O github não suporta o relatótio interativo carregado diretamente no notebook. Por isso os relatório foram salvos em formato .html e disponibilizados em uma <a href="https://drive.google.com/drive/folders/1ZiKZCsZjAC0asDXatkhpay5vlQ68CeUG?usp=sharing">pasta no drive</a>.
+<p>
+
+| :placard: Vitrine.Dev |     |
+| -------------  | --- |
+| :sparkles: Nome        | <b>Projeto Predição de Churn | Alura Voz</b>
+| :label: Tecnologias | python, pandas, pandas profililing, sklearn, imbalanced-learn
+| :rocket: URL         | https://github.com/CarolineOlive/Challenge_DataScience
+| :fire: Desafio     | 
+
+<!-- Inserir imagem com a #vitrinedev ao final do link -->
+![projeto_final_challenge1](https://user-images.githubusercontent.com/73675930/167624754-ea3dfad0-6dd3-4830-8a10-53ba329832b7.png#vitrinedev)
+
   
 <h3>Contextualização</h3>
 
 <ul>
   <p>A operadora de telecomunicações Alura Voz necessita de uma análise para a área de vendas da empresa, com o objetivo de reduzir a Taxa de Evasão de Clientes, conhecido como Churn Rate (taxa de saída dos clientes). Basicamente, o Churn Rate indica o quanto a empresa perdeu de receita ou clientes em um período de tempo.
+    
+. : O github não suporta o relatótio interativo carregado diretamente no notebook. Por isso os relatório foram salvos em formato .html e disponibilizados em uma <a href="https://drive.google.com/drive/folders/1ZiKZCsZjAC0asDXatkhpay5vlQ68CeUG?usp=sharing">pasta no drive</a>.
 </ul>
 
 <h3>Objetivo</h3>
